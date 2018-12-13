@@ -1,0 +1,603 @@
+{
+  "version": "v2.0",
+  "data": [
+    {
+      "title": "Beyonc\u00e9",
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "When did Beyonce start becoming popular?",
+              "id": "56be85543aeaaa14008c9063",
+              "answers": [
+                {
+                  "text": "in the late 1990s",
+                  "answer_start": 269
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What areas did Beyonce compete in when she was growing up?",
+              "id": "56be85543aeaaa14008c9065",
+              "answers": [
+                {
+                  "text": "singing and dancing",
+                  "answer_start": 207
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "When did Beyonce leave Destiny's Child and become a solo singer?",
+              "id": "56be85543aeaaa14008c9066",
+              "answers": [
+                {
+                  "text": "2003",
+                  "answer_start": 526
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "In what city and state did Beyonce  grow up? ",
+              "id": "56bf6b0f3aeaaa14008c9601",
+              "answers": [
+                {
+                  "text": "Houston, Texas",
+                  "answer_start": 166
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "In which decade did Beyonce become famous?",
+              "id": "56bf6b0f3aeaaa14008c9602",
+              "answers": [
+                {
+                  "text": "late 1990s",
+                  "answer_start": 276
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "In what R&B group was she the lead singer?",
+              "id": "56bf6b0f3aeaaa14008c9603",
+              "answers": [
+                {
+                  "text": "Destiny's Child",
+                  "answer_start": 320
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What album made her a worldwide known artist?",
+              "id": "56bf6b0f3aeaaa14008c9604",
+              "answers": [
+                {
+                  "text": "Dangerously in Love",
+                  "answer_start": 505
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Who managed the Destiny's Child group?",
+              "id": "56bf6b0f3aeaaa14008c9605",
+              "answers": [
+                {
+                  "text": "Mathew Knowles",
+                  "answer_start": 360
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "When did Beyonc\u00e9 rise to fame?",
+              "id": "56d43c5f2ccc5a1400d830a9",
+              "answers": [
+                {
+                  "text": "late 1990s",
+                  "answer_start": 276
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What role did Beyonc\u00e9 have in Destiny's Child?",
+              "id": "56d43c5f2ccc5a1400d830aa",
+              "answers": [
+                {
+                  "text": "lead singer",
+                  "answer_start": 290
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What was the first album Beyonc\u00e9 released as a solo artist?",
+              "id": "56d43c5f2ccc5a1400d830ab",
+              "answers": [
+                {
+                  "text": "Dangerously in Love",
+                  "answer_start": 505
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "When did Beyonc\u00e9 release Dangerously in Love?",
+              "id": "56d43c5f2ccc5a1400d830ac",
+              "answers": [
+                {
+                  "text": "2003",
+                  "answer_start": 526
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How many Grammy awards did Beyonc\u00e9 win for her first solo album?",
+              "id": "56d43c5f2ccc5a1400d830ad",
+              "answers": [
+                {
+                  "text": "five",
+                  "answer_start": 590
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What was Beyonc\u00e9's role in Destiny's Child?",
+              "id": "56d43ce42ccc5a1400d830b4",
+              "answers": [
+                {
+                  "text": "lead singer",
+                  "answer_start": 290
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What was the name of Beyonc\u00e9's first solo album?",
+              "id": "56d43ce42ccc5a1400d830b5",
+              "answers": [
+                {
+                  "text": "Dangerously in Love",
+                  "answer_start": 505
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Beyonc\u00e9 Giselle Knowles-Carter (/bi\u02d0\u02c8j\u0252nse\u026a/ bee-YON-say) (born September 4, 1981) is an American singer, songwriter, record producer and actress. Born and raised in Houston, Texas, she performed in various singing and dancing competitions as a child, and rose to fame in the late 1990s as lead singer of R&B girl-group Destiny's Child. Managed by her father, Mathew Knowles, the group became one of the world's best-selling girl groups of all time. Their hiatus saw the release of Beyonc\u00e9's debut album, Dangerously in Love (2003), which established her as a solo artist worldwide, earned five Grammy Awards and featured the Billboard Hot 100 number-one singles \"Crazy in Love\" and \"Baby Boy\"."
+        },
+        {
+          "qas": [
+            {
+              "question": "After her second solo album, what other entertainment venture did Beyonce explore?",
+              "id": "56be86cf3aeaaa14008c9076",
+              "answers": [
+                {
+                  "text": "acting",
+                  "answer_start": 207
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Which artist did Beyonce marry?",
+              "id": "56be86cf3aeaaa14008c9078",
+              "answers": [
+                {
+                  "text": "Jay Z",
+                  "answer_start": 369
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "To set the record for Grammys, how many did Beyonce win?",
+              "id": "56be86cf3aeaaa14008c9079",
+              "answers": [
+                {
+                  "text": "six",
+                  "answer_start": 565
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "For what movie did Beyonce receive  her first Golden Globe nomination?",
+              "id": "56bf6e823aeaaa14008c9627",
+              "answers": [
+                {
+                  "text": "Dreamgirls",
+                  "answer_start": 260
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "When did Beyonce take a hiatus in her career and take control of her management?",
+              "id": "56bf6e823aeaaa14008c9629",
+              "answers": [
+                {
+                  "text": "2010",
+                  "answer_start": 586
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Which album was darker in tone from her previous work?",
+              "id": "56bf6e823aeaaa14008c962a",
+              "answers": [
+                {
+                  "text": "Beyonc\u00e9",
+                  "answer_start": 180
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "After what movie portraying Etta James, did Beyonce create Sasha Fierce?",
+              "id": "56bf6e823aeaaa14008c962b",
+              "answers": [
+                {
+                  "text": "Cadillac Records",
+                  "answer_start": 406
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "When did Destiny's Child end their group act?",
+              "id": "56d43da72ccc5a1400d830bd",
+              "answers": [
+                {
+                  "text": "June 2005",
+                  "answer_start": 48
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What was the name of Beyonc\u00e9's second solo album?",
+              "id": "56d43da72ccc5a1400d830be",
+              "answers": [
+                {
+                  "text": "B'Day",
+                  "answer_start": 95
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What was Beyonc\u00e9's first acting job, in 2006?",
+              "id": "56d43da72ccc5a1400d830bf",
+              "answers": [
+                {
+                  "text": "Dreamgirls",
+                  "answer_start": 260
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Who is Beyonc\u00e9 married to?",
+              "id": "56d43da72ccc5a1400d830c0",
+              "answers": [
+                {
+                  "text": "Jay Z",
+                  "answer_start": 369
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the name of Beyonc\u00e9's alter-ego?",
+              "id": "56d43da72ccc5a1400d830c1",
+              "answers": [
+                {
+                  "text": "Sasha Fierce",
+                  "answer_start": 466
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Following the disbandment of Destiny's Child in June 2005, she released her second solo album, B'Day (2006), which contained hits \"D\u00e9j\u00e0 Vu\", \"Irreplaceable\", and \"Beautiful Liar\". Beyonc\u00e9 also ventured into acting, with a Golden Globe-nominated performance in Dreamgirls (2006), and starring roles in The Pink Panther (2006) and Obsessed (2009). Her marriage to rapper Jay Z and portrayal of Etta James in Cadillac Records (2008) influenced her third album, I Am... Sasha Fierce (2008), which saw the birth of her alter-ego Sasha Fierce and earned a record-setting six Grammy Awards in 2010, including Song of the Year for \"Single Ladies (Put a Ring on It)\". Beyonc\u00e9 took a hiatus from music in 2010 and took over management of her career; her fourth album 4 (2011) was subsequently mellower in tone, exploring 1970s funk, 1980s pop, and 1990s soul. Her critically acclaimed fifth studio album, Beyonc\u00e9 (2013), was distinguished from previous releases by its experimental production and exploration of darker themes."
+        },
+        {
+          "qas": [
+            {
+              "question": "In her music, what are some recurring elements in them?",
+              "id": "56be88473aeaaa14008c9080",
+              "answers": [
+                {
+                  "text": "love, relationships, and monogamy",
+                  "answer_start": 104
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Time magazine named her one of the most 100 what people of the century?",
+              "id": "56be88473aeaaa14008c9083",
+              "answers": [
+                {
+                  "text": "influential",
+                  "answer_start": 935
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Which magazine declared her the most dominant woman musician?",
+              "id": "56be88473aeaaa14008c9084",
+              "answers": [
+                {
+                  "text": "Forbes",
+                  "answer_start": 985
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "In which decade did the Recording Industry Association of America recognize Beyonce as the The Top Certified Artist?",
+              "id": "56bf725c3aeaaa14008c9643",
+              "answers": [
+                {
+                  "text": "2000s",
+                  "answer_start": 736
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What magazine rated Beyonce as the most powerful female musician in 2015?",
+              "id": "56bf725c3aeaaa14008c9644",
+              "answers": [
+                {
+                  "text": "Forbes",
+                  "answer_start": 985
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How did Beyonce describe herself as a feminist?",
+              "id": "56bf725c3aeaaa14008c9645",
+              "answers": [
+                {
+                  "text": "modern-day feminist",
+                  "answer_start": 18
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "In which years did Time rate Beyonce in the 100 most influential people in the world?",
+              "id": "56bf725c3aeaaa14008c9646",
+              "answers": [
+                {
+                  "text": "2013 and 2014",
+                  "answer_start": 970
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How many records has Beyonce sold in her 19 year career?",
+              "id": "56bf725c3aeaaa14008c9647",
+              "answers": [
+                {
+                  "text": "118 million",
+                  "answer_start": 393
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How many records did Beyonc\u00e9 sell as part of Destiny's Child?",
+              "id": "56d43f7e2ccc5a1400d830c7",
+              "answers": [
+                {
+                  "text": "60 million",
+                  "answer_start": 445
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "After leaving Destiny's Child, how many records did Beyonc\u00e9 release under her own name?",
+              "id": "56d43f7e2ccc5a1400d830c8",
+              "answers": [
+                {
+                  "text": "118 million",
+                  "answer_start": 393
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How many Grammy awards has Beyonc\u00e9 won?",
+              "id": "56d43f7e2ccc5a1400d830c9",
+              "answers": [
+                {
+                  "text": "20",
+                  "answer_start": 552
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What magazine named Beyonc\u00e9 as the most powerful female musician for 2015?",
+              "id": "56d43f7e2ccc5a1400d830cb",
+              "answers": [
+                {
+                  "text": "Forbes",
+                  "answer_start": 985
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "A self-described \"modern-day feminist\", Beyonc\u00e9 creates songs that are often characterized by themes of love, relationships, and monogamy, as well as female sexuality and empowerment. On stage, her dynamic, highly choreographed performances have led to critics hailing her as one of the best entertainers in contemporary popular music. Throughout a career spanning 19 years, she has sold over 118 million records as a solo artist, and a further 60 million with Destiny's Child, making her one of the best-selling music artists of all time. She has won 20 Grammy Awards and is the most nominated woman in the award's history. The Recording Industry Association of America recognized her as the Top Certified Artist in America during the 2000s decade. In 2009, Billboard named her the Top Radio Songs Artist of the Decade, the Top Female Artist of the 2000s and their Artist of the Millennium in 2011. Time listed her among the 100 most influential people in the world in 2013 and 2014. Forbes magazine also listed her as the most powerful female musician of 2015."
+        },
+
+        {
+          "qas": [
+            {
+              "question": "Beyonce portrayed which character in the film, Cadillac Records?",
+              "id": "56be96653aeaaa14008c9116",
+              "answers": [
+                {
+                  "text": "Etta James",
+                  "answer_start": 69
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Beyonce gave her entire salary from Cadillac Records to which organization?",
+              "id": "56be96653aeaaa14008c9117",
+              "answers": [
+                {
+                  "text": "Phoenix House",
+                  "answer_start": 439
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Which song did Beyonce sing at the first couple's inaugural ball? ",
+              "id": "56be96653aeaaa14008c9118",
+              "answers": [
+                {
+                  "text": "At Last",
+                  "answer_start": 582
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What genre of film was the movie, Obsessed, in which Beyonce starred in?",
+              "id": "56be96653aeaaa14008c9119",
+              "answers": [
+                {
+                  "text": "thriller",
+                  "answer_start": 693
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "A fight scene from the movie, Obsessed, won which award for Beyonce?",
+              "id": "56be96653aeaaa14008c911a",
+              "answers": [
+                {
+                  "text": "MTV Movie Award for Best Fight",
+                  "answer_start": 1101
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Where did Beyonce donate her salary from the movie Cadillac Records?",
+              "id": "56bf99aca10cfb14005511a7",
+              "answers": [
+                {
+                  "text": "Phoenix House",
+                  "answer_start": 439
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What thriller film did Beyonce star in?",
+              "id": "56bf99aca10cfb14005511a9",
+              "answers": [
+                {
+                  "text": "Obsessed",
+                  "answer_start": 703
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What was the name of the woman she played in Obsessed?",
+              "id": "56bf99aca10cfb14005511aa",
+              "answers": [
+                {
+                  "text": "Sharon Charles",
+                  "answer_start": 724
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How much more that the buget did the film gross?",
+              "id": "56bf99aca10cfb14005511ab",
+              "answers": [
+                {
+                  "text": "60 million",
+                  "answer_start": 940
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Which singer did Beyonc\u00e9 portray in Cadillac Records?",
+              "id": "56d4c0452ccc5a1400d831c8",
+              "answers": [
+                {
+                  "text": "Etta James",
+                  "answer_start": 69
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Which organization received Beyonc\u00e9's entire Cadillac Records salary?",
+              "id": "56d4c0452ccc5a1400d831c9",
+              "answers": [
+                {
+                  "text": "Phoenix House",
+                  "answer_start": 439
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Where did Beyonc\u00e9 perform on January 20, 2009?",
+              "id": "56d4c0452ccc5a1400d831ca",
+              "answers": [
+                {
+                  "text": "the First Couple's first inaugural ball.",
+                  "answer_start": 594
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Which thriller film did Beyonc\u00e9 star in with Ali Larter?",
+              "id": "56d4c0452ccc5a1400d831cb",
+              "answers": [
+                {
+                  "text": "Obsessed.",
+                  "answer_start": 703
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Beyonc\u00e9 further expanded her acting career, starring as blues singer Etta James in the 2008 musical biopic, Cadillac Records. Her performance in the film received praise from critics, and she garnered several nominations for her portrayal of James, including a Satellite Award nomination for Best Supporting Actress, and a NAACP Image Award nomination for Outstanding Supporting Actress. Beyonc\u00e9 donated her entire salary from the film to Phoenix House, an organization of rehabilitation centers for heroin addicts around the country. On January 20, 2009, Beyonc\u00e9 performed James' \"At Last\" at the First Couple's first inaugural ball. Beyonc\u00e9 starred opposite Ali Larter and Idris Elba in the thriller, Obsessed. She played Sharon Charles, a mother and wife who learns of a woman's obsessive behavior over her husband. Although the film received negative reviews from critics, the movie did well at the US box office, grossing $68 million\u2014$60 million more than Cadillac Records\u2014on a budget of $20 million. The fight scene finale between Sharon and the character played by Ali Larter also won the 2010 MTV Movie Award for Best Fight."
+        }
+      ]
+    }
+  ]
+}

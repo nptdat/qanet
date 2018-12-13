@@ -1,0 +1,33 @@
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Welcome to demo of QANet for SQuAD</title>
+  </head>
+<body>
+  <form name='frmQANet' action='/qanet' method='post'>
+    <table width=700px>
+      <tr>
+        <td align='left' width=50%>
+          Context:
+        </td>
+        <td align='left'>
+          Query:
+        </td>
+      </tr>
+
+      <tr>
+        <td align='left' valign='top'>
+          <textarea cols=60 rows=20 name='context'>{{ context }}</textarea>
+        </td>
+        <td align='left' valign='top'>
+          <input type=text name='query' value="{{ query }}" style='width:350px;'/>
+          <input type='submit' value='Ask'/>
+          {% if answer %}
+          <h3>{{ answer }}</h3>
+          {% endif %}
+        </td>
+      </t>
+    </table>
+  </form>
+</body>
+</html>
