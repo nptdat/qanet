@@ -14,16 +14,15 @@ Setting variables are defined in `src/squad/config.py`
 2. Download SQuAD data v1.1 and extract the files `train-v1.1.json` & `dev-v1.1.json` to `data/SQUAD_Data/v1.1`
    (Setting variable: `TRAIN_JSON` & `DEV_JSON`)
 
-2. Run `build_squad_data.py` to load SQuAD data from json files, transform the data and save to .pkl files
-
-```
-$ python build_squad_data.py
-```
-
 
 # For inference using pre-trained model
 * Download the model file `qanet_ep20.h5` from `https://github.com/nptdat/qanet/releases/download/v1.0/qanet_ep20.h5` and put it into `model` folder.
   (Setting variable: `INFERENCE_MODEL_PATH`)
+
+* If you use the above model, I recommend you to download the following files from `https://github.com/nptdat/qanet/releases/download/v1.0` to ensure the data consistence:
+  * `squad_processed-v1.1.pkl.zip`: unzip and move the pickle file to `data/SQUAD_Data/v1.1/`
+  * `numpy_files.zip`: unzip and move all the .npy files to `data/SQUAD_Data/v1.1/numpy/`
+  * Data from these files will overwrite those generated from `build_squad_data.py`
 
 * Run
 ```
@@ -32,7 +31,13 @@ $ FLASK_APP=demo_qanet.py flask run --host=0.0.0.0 --port=8080
 Then access `http://localhost:8080/qanet` via browser.
 
 # For training
-* Run
+1. Run `build_squad_data.py` to load SQuAD data from json files, transform the data and save to .pkl files
+
+```
+$ python build_squad_data.py
+```
+
+2. Run `train.py`
 ```
 $ python train.py
 ```
