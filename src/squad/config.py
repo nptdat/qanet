@@ -18,7 +18,7 @@ class Config:
     # SQUAD_DATA = os.path.join(DATA_DIR, 'squad_processed-v2.0_small.pkl')
 
     MODEL_PATH = 'model/qanet_{}_ep%s.h5'.format(PREFIX)
-    INFERENCE_MODEL_PATH = 'model/qanet_ep8.h5'
+    INFERENCE_MODEL_PATH = 'model/qanet_ep20.h5'
     TEMP_MODEL_PATH = 'model/temp_weights_{}.h5'.format(PREFIX)
     TENSORBOARD_PATH = 'log/tensorboard/'
 

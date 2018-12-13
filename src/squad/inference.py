@@ -19,7 +19,7 @@ def load_model():
     data_binary = SquadData.load(np_path=cf.SQUAD_NP_DATA)
     word_vectors, char_vectors, train_ques_ids, X_train, y_train, val_ques_ids, X_valid, y_valid = data_binary
     model = QANetModel(cf, data_binary, data)
-    filename = 'model/qanet_ep15.h5'
+    filename = cf.INFERENCE_MODEL_PATH
     model.load_weights(filename)
 
     # Predict once to overcome the error in API request

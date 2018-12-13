@@ -22,7 +22,7 @@ $ python build_squad_data.py
 
 
 # For inference using pre-trained model
-* Download the model file `qanet_ep15.h5` from `https://github.com/nptdat/qanet/releases/download/v1.0/qanet_ep15.h5` and put it into `model` folder.
+* Download the model file `qanet_ep20.h5` from `https://github.com/nptdat/qanet/releases/download/v1.0/qanet_ep20.h5` and put it into `model` folder.
   (Setting variable: `INFERENCE_MODEL_PATH`)
 
 * Run
